@@ -1,0 +1,1 @@
+ps -eH | grep uwsgi
